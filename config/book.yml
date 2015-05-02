@@ -1,0 +1,11 @@
+---
+slug: rails_book
+filename: rails_book
+title: Title of the Book
+subtitle: Change me
+description: Change me.
+author: Author Name
+copyright: 2015
+uuid: 03261f4f-d98a-407e-b8f9-e4cecb333b1d
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1

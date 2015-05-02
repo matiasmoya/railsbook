@@ -1,0 +1,9 @@
+cover
+frontmatter:
+maketitle
+tableofcontents
+preface.md
+mainmatter:
+another_chapter.md
+a_chapter.md
+yet_another_chapter.md
